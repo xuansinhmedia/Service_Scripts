@@ -1,4 +1,5 @@
 #!bin/bash
+#@author: xuansinhmedia
 # Description about this script: 
 # 1. Check time modify of log file.
 # 2. Compare between time modify and current time
